@@ -1,0 +1,12 @@
+D:\vb project\Pertemuan2\Pertemuan2\bin\Debug\Pertemuan2.exe
+D:\vb project\Pertemuan2\Pertemuan2\bin\Debug\Pertemuan2.pdb
+D:\vb project\Pertemuan2\Pertemuan2\bin\Debug\Pertemuan2.xml
+D:\vb project\Pertemuan2\Pertemuan2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\vb project\Pertemuan2\Pertemuan2\obj\x86\Debug\Pertemuan2.vbproj.GenerateResource.Cache
+D:\vb project\Pertemuan2\Pertemuan2\obj\x86\Debug\Pertemuan2.exe
+D:\vb project\Pertemuan2\Pertemuan2\obj\x86\Debug\Pertemuan2.xml
+D:\vb project\Pertemuan2\Pertemuan2\obj\x86\Debug\Pertemuan2.pdb
+D:\vb project\Pertemuan2\Pertemuan2\obj\x86\Debug\WindowsApplication1.Kalkulator.resources
+D:\vb project\Pertemuan2\Pertemuan2\obj\x86\Debug\WindowsApplication1.InputNilai.resources
+D:\vb project\Pertemuan2\Pertemuan2\obj\x86\Debug\WindowsApplication1.HargaBarang.resources
+D:\vb project\Pertemuan2\Pertemuan2\obj\x86\Debug\WindowsApplication1.Test.resources
